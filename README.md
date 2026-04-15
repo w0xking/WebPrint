@@ -132,7 +132,7 @@ venv_print\Scripts\activate
 python -m pip install --upgrade pip
 
 # 安装所有核心依赖
-pip install -r requrements.txt
+pip install -r requirements.txt
 
 # 安装打包工具
 pip install pyinstaller==5.13.2
